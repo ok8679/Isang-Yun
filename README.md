@@ -17,11 +17,66 @@
 
 # Sample visual essay
 
+## Tongyeong, Joseon
+
 Yun Isang, a Korean composer who migrated to Germany, was an influential avantgarde composer in European countries. Born in Tongyeong, a seaport city during the colonial period in Korea. He was exposed to Western culture in early age as Tongyeong was one of first cities where adopt Western/Japanese culture since it is close to Japan. Despite Yun’s father opposed him learning music, he started to study Western music theory from Ho Young Choi, a violinist who was a student of Franz von Eckert. At the same time, Yun started to understand what it means to live in a colony, cumulating his anti-Japanese sentiment. 
 <param ve-entity eid="Q42152">
 <param ve-map center="Q42152" zoom="10">
 
+## Osaka, Japan
 
+<param ve-entity eid="Q35765">
+<param ve-map center="Q35765" zoom="10"> 
+
+## Tongyeong, Joseon
+
+<param ve-entity eid="Q42152">
+<param ve-map center="Q42152" zoom="10">
+
+## Tokyo, Japan
+
+<param ve-entity eid="Q1490">
+<param ve-map center="Q1490" zoom="10">
+
+## Tongyeong, Joseon
+
+<param ve-entity eid="Q42152">
+<param ve-map center="Q42152" zoom="10">
+
+## Busan, Korea
+
+<param ve-entity eid="Q16520">
+<param ve-map center="Q16520" zoom="10">
+
+## Seoul, Korea
+
+<param ve-entity eid="Q8684">
+<param ve-map center="Q8684" zoom="10">
+
+## Paris, France
+
+<param ve-entity eid="Q90">
+<param ve-map center="Q90" zoom="10">
+
+## West Berlin, Germany
+
+<param ve-entity eid="Q56036">
+<param ve-map center="Q56036" zoom="10">
+
+## Pyongyang, North Korea
+
+<param ve-entity eid="Q18808">
+<param ve-map center="Q18808" zoom="10">
+
+## Seoul, Korea
+
+<param ve-entity eid="Q8684">
+<param ve-map center="Q8684" zoom="10">
+
+## Hannover, Germany
+
+<param ve-entity eid="Q1715">
+<param ve-map center="Q1715" zoom="10">
 # Basic usage
 
 ## Image
