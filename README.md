@@ -16,9 +16,9 @@
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
 # Sample visual essay
+<param ve-entity eid="34.85646757093574, 128.4336838693684">
+<param ve-map center="34.85646757093574, 128.4336838693684" zoom="10">
 
-
-       <param ve-map center="Q12621239" zoom="10">
 
 # Basic usage
 
