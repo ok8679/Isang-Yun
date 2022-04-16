@@ -17,7 +17,7 @@
 
 # Sample visual essay
 
-
+<param ve-map basemap="Esri_WorldPhysical">
        <param ve-map center="1.252,63.1" zoom="10">
 
 # Basic usage
