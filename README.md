@@ -18,6 +18,7 @@
 # Sample visual essay
 
 Yun Isang, a Korean composer who migrated to Germany, was an influential avantgarde composer in European countries. Born in Tongyeong, a seaport city during the colonial period in Korea. He was exposed to Western culture in early age as Tongyeong was one of first cities where adopt Western/Japanese culture since it is close to Japan. Despite Yun’s father opposed him learning music, he started to study Western music theory from Ho Young Choi, a violinist who was a student of Franz von Eckert. At the same time, Yun started to understand what it means to live in a colony, cumulating his anti-Japanese sentiment. 
+<param ve-entity eid="Q42152">
 <param ve-map center="Q42152" zoom="10">
 
 
