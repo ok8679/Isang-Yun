@@ -27,12 +27,12 @@
 _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
 dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
 20th century after the earring worn by the girl portrayed there.[^1]
- <param ve-map center="1.252,63.1" zoom="10">
+ <param ve-map center="41.893,12.483" zoom="10">
 ## Map
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+<param ve-map center="1.252.63.1" zoom="11" prefer-geojson>
 
 ## Multiple viewers
 
