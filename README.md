@@ -1,19 +1,8 @@
 # Isang-Yun
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
-<param ve-config 
-       title="Isang Yun in Front of the Poster of a Concert on His Composition"
-       author="Public Domain"
-       banner="https://commons.wikimedia.org/wiki/Category:Isang_Yun#/media/File:Isang_Yun_in_front_of_the_poster_of_a_concert_on_his_composition.jpg" 
-       layout="vertical">
+<param ve-image fit="cover" manifest="https://commons.wikimedia.org/wiki/Category:Isang_Yun#/media/File:Isang_Yun_in_front_of_the_poster_of_a_concert_on_his_composition.jpg">
 
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
 
 # Sample visual essay
 
