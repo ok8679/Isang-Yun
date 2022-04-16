@@ -1,10 +1,8 @@
 # Isang-Yun
-<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-
-<param ve-image fit="cover" manifest="https://commons.wikimedia.org/wiki/Category:Isang_Yun#/media/File:Isang_Yun_in_front_of_the_poster_of_a_concert_on_his_composition.jpg">
 
 
-# Sample visual essay
+
+# Life
 
 ## Tongyeong, Joseon
 
