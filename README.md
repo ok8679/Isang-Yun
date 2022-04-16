@@ -4,7 +4,7 @@
 <param ve-config 
        title="Isang Yun"
        author="Jiyoon Auo"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://commons.wikimedia.org/wiki/Category:Isang_Yun#/media/File:Isang_Yun_in_front_of_the_poster_of_a_concert_on_his_composition.jpg" 
+       banner="https://commons.wikimedia.org/wiki/File:Verleihung_des_Kulturpreises_1969_an_Isang_Yun_(Kiel_45.358).jpg" 
        layout="vertical"
                                    banner="https://commons.wikimedia.org/wiki/Category:Isang_Yun#/media/File:Isang_Yun_in_front_of_the_poster_of_a_concert_on_his_composition.jpg" 
        layout="vertical">
