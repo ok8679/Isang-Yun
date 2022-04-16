@@ -25,21 +25,25 @@ Yun Isang, a Korean composer who migrated to Germany, was an influential avantga
 
 ## Osaka, Japan
 
+From 1920 to 1930s, Imperial Japan shifted its ruling strategy from the military rule to the cultural rule, allowing Korean students experience Western and Japanese culture. Korean students who wanted to study European music went to either Japan or Germany, and Isang Yun decided to go to Japan for study. Yun lied to his father that he would be studying at business school and went to Japan with 20won, an estimated amount of money for a bag of rice. He attended to Osaka Conservatory in 1935 
 <param ve-entity eid="Q35765">
 <param ve-map center="Q35765" zoom="10"> 
 
 ## Tongyeong, Joseon
 
+had to return to Tongyeong as soon as possible since the mother passed away. <암흑속에서 노래하다> Back in Tongyeong, he started to work as a teacher for a family living. During this time, Imperial Japan turned to ethnocide policy. Hwayang elementary school, where Yun served as a teacher, was known for its national consciousness. He secretly taught in Korean to students and released his first children’s song book, “Songs for Cowboy. 목공을 위한 노래” 
 <param ve-entity eid="Q42152">
 <param ve-map center="Q42152" zoom="10">
 
 ## Tokyo, Japan
 
+In 1939, he went to Japan again. This time, he went to Tokyo National University of Fine Arts in order to learn from Tomojirō Ikenouchi 池内友次郎. Tomojirō Ikenouchi was a composer who studied in France, influenced by French impressionist. Ikenouchi was known for his music that was using Japanese traditional music in classical music. While studying in Tokyo, Yun had to deal with struggles living as a poor Korean student in Japan. He had to work during the daytime and compose in the night. He put the painting of The Four Guardian Deities in Goguryeo Murals in the desk.  During this time, Koreans were sent to the military farm in Japan. Yun joined in Zainichi Korean underground organization for the independence movement while composing “Cello concerto.” 
 <param ve-entity eid="Q1490">
 <param ve-map center="Q1490" zoom="10">
 
 ## Tongyeong, Joseon
 
+2 years later, the tension between Japan and America got intense, so he had to return to Korea. At that time, Koreans who returned from Japan were watched, and Yun was among them. He organized Tongyeong underground organization against the Japan Empire. This organization was dismantled because of a spy, and Yun had to join the Imperial Japanese military, forced to work for spoiling Koreans’ rice. Imperial Japan implemented “The Rice Production Development Program 産米增殖計劃” since 1920, which was planning to increase rice supply. This included a strategy of making Korea as a land of breadbasket. Colonized Korea supplied 98% rice imports to Japan. Yun was imprisoned with other independence activists due to his hesitation when depriving Koreans’ rice. After release, he again made an underground organization for Independence, and because of this, he had to escape to Gyeong-Seong (today’s Seoul) with a cello.
 <param ve-entity eid="Q42152">
 <param ve-map center="Q42152" zoom="10">
 
