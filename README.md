@@ -4,7 +4,9 @@
 <param ve-config 
        title="Isang Yun"
        author="Jiyoon Auo"
-       banner="https://commons.wikimedia.org/wiki/Category:Isang_Yun#/media/File:Isang_Yun_in_front_of_the_poster_of_a_concert_on_his_composition.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://commons.wikimedia.org/wiki/Category:Isang_Yun#/media/File:Isang_Yun_in_front_of_the_poster_of_a_concert_on_his_composition.jpg" 
+       layout="vertical"
+                                   banner="https://commons.wikimedia.org/wiki/Category:Isang_Yun#/media/File:Isang_Yun_in_front_of_the_poster_of_a_concert_on_his_composition.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
