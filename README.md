@@ -88,7 +88,7 @@ In 1939, he went to Japan again. This time, he went to Tokyo National University
 
 ## Image
 
-<param ve-d3plus-network url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/graphs/peony_medici.tsv">
+<param ve-vis-network title="Anna Maria Luisa de Medici's Network" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/graphs/peony_medici.tsv">
 
 ## Map
 
