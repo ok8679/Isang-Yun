@@ -88,10 +88,8 @@ In 1939, he went to Japan again. This time, he went to Tokyo National University
 
 ## Image
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
- <param ve-map center="34.85646757093574, 128.4336838693684" zoom="10">
+<param ve-d3plus-network url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/graphs/peony_medici.tsv">
+
 ## Map
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
