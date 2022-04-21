@@ -17,6 +17,12 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
+# Introduction
+Isang Yun, a Korean born composer who was expelled to Germany, was one of the “56 important composers in the 20th century” and “top five composers alive in Europe.” Influenced by Schönberg, Yun invented his unique musical technique, which compared him with the likes of Messiaen, Ligetti, and Penderecki. His reputation was built upon his musical ability to “perfectly expresses the Eastern philosophy and musical techniques in Western musical language.” Most critiques found his music one of a kind as it is “East Asian combined with Western, traditional combined with international, and still Korean in essence.” 
+
+Yet, Yun himself consistently highlighted that his music is an attempt to bring Eastern musical knowledge and aesthetic to the West. Scholarly work regarding Yun’s music and critiques have centered around how he is “Asian” who has composed Western music. However, by only focusing on his Eastern-ness or Western-ness, binary understandings of his music remain in the conventional analysis of music historiography that highlights the dichotomous discourse of West versus East. Eventually, understanding Yun’s music in the binary frame reinforces and prioritizes the Eurocentric perspective and history, while placing Eastern composers in the peripheries. Moreover, this analysis neglects permeability of cross-cultural contacts that Yun highlighted.
+
+How can we decipher this long-standing history of centering European music? This paper attempts to decentralize European music by subverting a fixed belief that European music has had a one-sided impact since modernization. In contrast to the conventional understanding that Isang Yun’s music was in between the/was an amalgamation of the East and West  , this paper understands his music as fluid which is not confined to both East and West. In order to deliver this, the movements and networks he acted upon which impacted his life and any aesthetic changes will be discussed. His philosophical belief, musical language, and life transitions were reflected in his music, so his music will be explored in order to understand his fluidity more accurately/precisely. By doing this, this paper urges to reconstruct the geographic and spatial meanings of music.
 
 # Life
 
