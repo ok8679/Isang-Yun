@@ -22,134 +22,69 @@
 
 ## Tongyeong, Joseon
 
-Yun Isang, a Korean composer who migrated to Germany, was an influential avantgarde composer in European countries. Born in Tongyeong, a seaport city during the colonial period in Korea. He was exposed to Western culture in early age as Tongyeong was one of first cities where adopt Western/Japanese culture since it is close to Japan. Despite Yun’s father opposed him learning music, he started to study Western music theory from Ho Young Choi, a violinist who was a student of Franz von Eckert. At the same time, Yun started to understand what it means to live in a colony, cumulating his anti-Japanese sentiment. 
+Tongyeong is a seaport city in Namhae, South Korea. As a peninsula, Tongyeong was a center of the maritime trade, connected to other cities such as Busan, Yeosu, and even Japan. Accordingly, Tongyeong has a rich history of diversity, known as an intersectional city of the culture of Confucianism but also ordinary citizens, locals and foreigners. As a result of this diversity, people in Tongyeong had the opportunity to be exposed to different cultures as well as have national consciousness and pride. Moreover, the city is known for its history of admiring/praising Lee Sun Shin, who is regarded as the greatest naval commander in Korean history. He achieved tremendous victories against the Japanese invasion during the Joseon Dynasty. Yun lived in Tongyeong during the colonial period, where he was exposed to Western music and traditional music from an early age. Moreso, surrounded by many independence activists in his hometown, he became a nationalist from young. 
 <param ve-entity eid="Q42152">
 <param ve-map center="Q42152" zoom="10">
 
 ## Osaka, Japan
 
-From 1920 to 1930s, Imperial Japan shifted its ruling strategy from the military rule to the cultural rule, allowing Korean students experience Western and Japanese culture. Korean students who wanted to study European music went to either Japan or Germany, and Isang Yun decided to go to Japan for study. Yun lied to his father that he would be studying at business school and went to Japan with 20won, an estimated amount of money for a bag of rice. He attended to Osaka Conservatory in 1935 
+From 1920 to 1930s, Imperial Japan shifted its ruling strategy from military rule to cultural rule, allowing Korean students to experience Western and Japanese culture. Korean students who wanted to study European music either travelled to Japan or Germany, and Isang Yun decided to go to Japan to pursue his studies. Yun lied to his father that he would be studying at a business school and went to Japan with 20won, approximately enough to buy a bag of rice.  Living in Ikaino, he attended the Osaka Conservatory in 1935. Ikaino (now referred to as Ikuno-ku), was known for the large population of Zainichi Koreans living in Osaka. It was an industrial area, close to the national military factory. This area required cheap laborers, which forced more Koreans in the 1920s to migrate to Ikaino during the colonization period, establishing the area as one of the largest Korean populated areas. 
 <param ve-entity eid="Q35765">
 <param ve-map center="Q35765" zoom="10"> 
 
 ## Tongyeong, Joseon
 
-had to return to Tongyeong as soon as possible since the mother passed away. <암흑속에서 노래하다> Back in Tongyeong, he started to work as a teacher for a family living. During this time, Imperial Japan turned to ethnocide policy. Hwayang elementary school, where Yun served as a teacher, was known for its national consciousness. He secretly taught in Korean to students and released his first children’s song book, “Songs for Cowboy. 목공을 위한 노래” 
+Yun had to return to Tongyeong as soon as possible since the mother passed away. <암흑속에서 노래하다> Back in Tongyeong, he started to work as a teacher for a family living. During this time, Imperial Japan turned to ethnocide policy. Hwayang elementary school, where Yun served as a teacher, was known for its national consciousness. He secretly taught in Korean to students and released his first children’s song book, “Songs for Cowboy. 목공을 위한 노래” 
 <param ve-entity eid="Q42152">
 <param ve-map center="Q42152" zoom="10">
 
 ## Tokyo, Japan
 
-In 1939, he went to Japan again. This time, he went to Tokyo National University of Fine Arts in order to learn from Tomojirō Ikenouchi 池内友次郎. Tomojirō Ikenouchi was a composer who studied in France, influenced by French impressionist. Ikenouchi was known for his music that was using Japanese traditional music in classical music. While studying in Tokyo, Yun had to deal with struggles living as a poor Korean student in Japan. He had to work during the daytime and compose in the night. He put the painting of The Four Guardian Deities in Goguryeo Murals in the desk.  During this time, Koreans were sent to the military farm in Japan. Yun joined in Zainichi Korean underground organization for the independence movement while composing “Cello concerto.” 
+In 1939, he went to Japan again. This time, he went to Tokyo National University of Fine Arts in order to learn from Tomojirō Ikenouchi 池内友次郎. Tomojirō Ikenouchi was a composer who studied in France, influenced by French impressionism. Ikenouchi was known for his music that incorporated Japanese traditional scales in classical music. It was reported that applying Japanese scales with Western music was first discovered in Tokyo National University of Fine Arts in 1932.  While studying in Tokyo, Yun had to deal with struggles living as a Korean student in Japan. This school required students to participate in the military training during the 1930s. 
+What was the significance of Yun attending an Imperial Japanese school as an independence activist just because of his love in music? At that time, the ethnocide policy had been strengthened. Koreans were forced to legally change their Korean name to a Japanese name. The Sino-Japanese war occurred which caused serious economic damage to Japan. Japan conquered Indochina, and other Asian countries in order to compensate their loss of economy. During this era, the Korean peninsula became a base for military supplies. Koreans were forced to do labor, serving at military or military factories. Accordingly, Yun was financially struggling, he had to work during the daytime and compose at night. He was able to navigate his life during this tumultuous time thanks to the painting of The Four Guardian Deities in Goguryeo Murals.  He put the painting on the desk wall, in order to remind himself of nationalism/in order to admire nationalism. Moreso, Yun joined in Zainichi Korean underground organization for the independence movement while composing “Cello concerto.” 
 <param ve-entity eid="Q1490">
 <param ve-map center="Q1490" zoom="10">
 
 ## Tongyeong, Joseon
 
-2 years later, the tension between Japan and America got intense, so he had to return to Korea. At that time, Koreans who returned from Japan were watched, and Yun was among them. He organized Tongyeong underground organization against the Japan Empire. This organization was dismantled because of a spy, and Yun had to join the Imperial Japanese military, forced to work for spoiling Koreans’ rice. Imperial Japan implemented “The Rice Production Development Program 産米增殖計劃” since 1920, which was planning to increase rice supply. This included a strategy of making Korea as a land of breadbasket. Colonized Korea supplied 98% rice imports to Japan. Yun was imprisoned with other independence activists due to his hesitation when depriving Koreans’ rice. After release, he again made an underground organization for Independence, and because of this, he had to escape to Gyeong-Seong (today’s Seoul) with a cello.
+2 years later, the tension between Japan and America intensified right before the Pacific war, so he had to return to Korea. At that time, Koreans who returned from Japan were watched, and Yun was among one of them. He organized Tongyeong the underground organization against the Japanese Empire. This organization was dismantled because a spy reported it/disclosed their secret, and Yun had to join the Imperial Japanese military. He was forced to deprive Koreans of their rice produce and send it to Imperial Japan instead. Imperial Japan implemented “The Rice Production Development Program 産米增殖計劃” in 1920, which was planning to increase rice supply. This included a strategy of making Korea the land of breadbasket in order to prioritize Japan’s rice demand. Colonized Korea supplied 98% of rice imports to Japan. Despite strict orders, Yun was imprisoned with other independence activists due to their hesitations to deprive Koreans of rice. After their release, Yun once again formed an underground organization for Independence, and because of this, he had to escape to Gyeong-Seong (a Sino name of Seoul used during the colonization) with his cello.
 <param ve-entity eid="Q42152">
 <param ve-map center="Q42152" zoom="10">
 
-## Busan, Korea
-
-<param ve-entity eid="Q16520">
-<param ve-map center="Q16520" zoom="10">
-
 ## Seoul, Korea
-
+When Korea achieved independence from Japan/when Korea declared independence from Japan, Yun was in Gyeong-seong in 1945. In contrast to Koreans’ hope that Korea will be unified after the independence, Gyeong-seong was an area of conflicts. Parties were fighting against different ideologies; Southern Korea was occupied by the US while Northern Korea was occupied by the Soviet Union. Even though Yun himself joined the communist party, he criticized these conflicts as “politics after Independence were barbaric”  and left Gyeong-seong, heading to Tongyeong. 
 <param ve-entity eid="Q8684">
 <param ve-map center="Q8684" zoom="10">
 
-## Paris, France
+## Tongyeong, Korea
+In Tongyeong, he organized Tongyeong Culture Foundation 사진잇음. He established an orphanage for war orphans. In 1948, he began to work as a teacher at Tongyeong Girls’ Highschool, composing 9 school songs in Korean in order to remove Japanese influence in schools. During the Korean War, he composed the Korean war song, <낙동강>. Moreover, he was a member of the Korean Composer Association, serving as a critic while composing music and preparing for his studies abroad. 
+<param ve-entity eid="Q42152">
+<param ve-map center="Q42152" zoom="10">
 
+
+## Paris, France
+France was the first European country Isang Yun studied in. Even though Yun’s music was highly influenced by twelve-tone music, which was famous for German composers, he was unable to join the German classical music scene. This was because it was hard for international students to study in a European country unless they had social networks within the country. Fortunately, he had a friend who had studied in France, and with his reference, Yun was able to study in France.  He attended Paris Conservatoire, being taught by Tony Aubin and Pierre Revel. He did not enjoy his teachers’ musical focus as it mostly centered around classical music only from the classic era.
 <param ve-entity eid="Q90">
 <param ve-map center="Q90" zoom="10">
 
 ## West Berlin, Germany
-
+Yun studied at Musikhochschule Berlin under Boris Blacher. Yun served as a representative in the student council, organizing an ethnic art troupe that traveled and performed music. At Internationale Ferienkurse fur Neue Musik Darmstadt, Yun was shocked by John Cage’s 4’ 33’’. Since then, he started to become heavily influenced by avant garde music, escaping from twelve-tone music. As a result, during this time, Yun’s important technique, Haupttontechnik (main-note technique), was influenced by Sigimsae 시김새, a Korean understanding of the pitch. 
+In the 1960s, South Korean students who lived in West Berlin were not restricted to cross over to East Berlin. The North Korean Embassy in East Berlin offered food often since North Korea was more prosperous than South Korea. This made South Korean students organized dinners at the North Korean Embassy, which consequently led to disaster/havoc. Moreover, there was no surveillance for this activity in Berlin from South Korea; indeed, South Korean students were not forbidden to cross over the border.  
 <param ve-entity eid="Q56036">
 <param ve-map center="Q56036" zoom="10">
 
 ## Pyongyang, North Korea
-
+Yun Isang had a best friend, Sanghan Choi, who studied music and worked as an independence activist who eventually went to North Korea after the Korean War. Yun always desired to meet his friend again which made him contact the North Korean Embassy located in Germany. The North Korean Embassy invited Yun to North Korea, and Yun accepted it in order to meet his old friend and see The Four Guardian Deities in Goguryeo Murals in person.  When he went to Pyeongyang, he had to have interviews with North Korean leaders, which eventually was problematic for him in the future. Yun was greatly inspired by The Four Guardian Deities in Goguryeo Murals, which drove his decision to compose orchestra <영상> 
 <param ve-entity eid="Q18808">
 <param ve-map center="Q18808" zoom="10">
 
 ## Seoul, Korea
-
+On July 8, 1967, The Dongbaekrim Incident or the East Berlin Incident (東伯林事件) brought a political scandal throughout South Korea. At that time, the Central Intelligence Agency claimed that Koreans who lived in Germany and France had gone to North Korea to be trained as North Korean spies. Yun was also included in this incident, kidnapped by the Central Intelligence Agency. His travel to North Korea proved to be troublesome and they detained him in prison. Yun’s imprisonment shocked the German society, making German people protest against the South Korean government. Spiegel, a German magazine interviewed Yun in prison, and this propelled music organizations in Germany to petition for the South Korean government to release Yun. 
+Musica Viva was one of them; they sent a letter including Wolfgang Fortner (a head of the Musica Viva) and the Mayor of Berlin. Yun joined in Freie Akademie der Künste Hamburg in May 1968, in order to demand his release, which made this incident more famous in Germany. Wilhelm Maler, a head of this organization sent a protest letter which included a sign of Karlheinz Stockhausen, György Ligeti, etc. “Isang Yun is the most prominent composer not only in Europe but also in the world. His purpose was always to bring the excellent elements of Korean music into Western music….International music field needs Isang Yun.” 
 <param ve-entity eid="Q8684">
 <param ve-map center="Q8684" zoom="10">
 
-## Hannover, Germany
 
-<param ve-entity eid="Q1715">
-<param ve-map center="Q1715" zoom="10">
-# Basic usage
-
-## Image
-
-<html>
-<head>
-    <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
-
-    <style type="text/css">
-        #mynetwork {
-            width: 600px;
-            height: 400px;
-            border: 1px solid lightgray;
-        }
-    </style>
-</head>
-<body>
-<div id="mynetwork"></div>
-
-<script type="text/javascript">
-    // create an array with nodes
-    var nodes = new vis.DataSet([
-        {id: 1, label: 'Node 1'},
-        {id: 2, label: 'Node 2'},
-        {id: 3, label: 'Node 3'},
-        {id: 4, label: 'Node 4'},
-        {id: 5, label: 'Node 5'}
-    ]);
-
-    // create an array with edges
-    var edges = new vis.DataSet([
-        {from: 1, to: 3},
-        {from: 1, to: 2},
-        {from: 2, to: 4},
-        {from: 2, to: 5}
-    ]);
-
-    // create a network
-    var container = document.getElementById('mynetwork');
-
-    // provide the data in the vis format
-    var data = {
-        nodes: nodes,
-        edges: edges
-    };
-    var options = {};
-
-    // initialize your network!
-    var network = new vis.Network(container, data, options);
-</script>
-</body>
-</html>
-
-## Map
-
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="1.252.63.1" zoom="11" prefer-geojson>
-
-## Multiple viewers
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
 
 # References
 
