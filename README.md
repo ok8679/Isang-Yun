@@ -89,7 +89,7 @@ On July 8, 1967, The Dongbaekrim Incident or the East Berlin Incident (東伯林
 Musica Viva was one of them; they sent a letter including Wolfgang Fortner (a head of the Musica Viva) and the Mayor of Berlin. Yun joined in Freie Akademie der Künste Hamburg in May 1968, in order to demand his release, which made this incident more famous in Germany. Wilhelm Maler, a head of this organization sent a protest letter which included a sign of Karlheinz Stockhausen, György Ligeti, etc. “Isang Yun is the most prominent composer not only in Europe but also in the world. His purpose was always to bring the excellent elements of Korean music into Western music….International music field needs Isang Yun.” 
 <param ve-entity eid="Q8684">
 <param ve-map center="Q8684" zoom="10">
-
+<param ve-video id="IRiG88">
 
 
 # References
