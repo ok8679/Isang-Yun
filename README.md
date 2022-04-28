@@ -126,10 +126,21 @@ This piece shows that Yun’s musical technique was culturally fluid. It tries t
 <param ve-video id="05ef6vhO_5A">
 
 # Conclusion
-Even though many critics declared him as “a mediator between East and West,” Yun argued in his interview that “I don’t care whether my music is Western or Eastern. I’m just making music that I have to.” [13] Dieter M. Ayer, a professor of Korean studies at Universität Tübingen asserted “considering Yun’s music only as a Korean music is just a stereotype.” Yun’s identity was constructed based on the networks between himself and places. By living in Tongyeong where the center of the maritime trade was, he was exposed to various cultures. Colonial experiences helped him cumulate his nationalism, which was reflected in his music composition. Political conflicts in Independent Korea determined his focus on peace in his music. His travel to Pyongyang and imprisonment in Seoul eventually led him to resonate and feel a sense of belonging to other classical music composers.   
+Even though many critics declared him as “a mediator between East and West,” Yun argued in his interview that “I don’t care whether my music is Western or Eastern. I’m just making music that I have to.” [13] Yun’s identity was constructed based on the networks between himself and places. By living in Tongyeong where the center of the maritime trade was, he was exposed to various cultures. Colonial experiences helped him cumulate his nationalism, which was reflected in his music composition. Political conflicts in Independent Korea determined his focus on peace in his music. His travel to Pyongyang and imprisonment in Seoul eventually led him to resonate and feel a sense of belonging to other classical music composers.   
 Likewise, Yun’s life and music has helped us reconsider the meaning of the cultural space of music. It is hard to essentialize Yun based on his ethnic identity. His networks with other composers, musicians, and ideologies show he was a transnational and transcultural composer who challenges the national unit by crossing borders. His permeable and fluid life allow us to reconstruct the relationship between East and West as fluid, interconnected, and dynamic rather than fixed dichotomous borders. 
 
 
-# References
+# Footnotes
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[1] Isang Yun and Luise Rinse 윤이상, 루이제 린저, Sangch'ŏbadŭn Yong 상처받은 용 [Wounded Dragon], trans. Jong-do Hong 홍종도 (Seoul: Han Wool, 1988), 48. 
+[2] Encyclopedia of Overseas Korean Culture, “Chaeilchosŏninŭi Samkwa Aehwani Sŏrin Osak'a Ssŭruhashigukcheshijanggwa Trmiyuk'imo-ri Sangjŏmgat'” 재일조선인의 삶과 애환이 서린 오사카 쓰루하시국제시장과 ‘미유키모리 상점가’ [Osaka Tsuruhashi International Market and Miyukimori Shopping Street, Where the Lives and Sorrows of Zainichi Koreans are Engulfed], http://www.okpedia.kr/Contents/ContentsView?contentsId=GC95200002&localCode=jpn&menuGbn=special
+[3] Maho Nakatsuji 仲辻真帆,  1930Nyŏndae Chŏnban Tok'yoŭmak'akkyoŭi Chakkok Kyoyuk: 1Ch'a Charyo-ro Salp'yŏbonŭn Pon'gwa Chakkokpuŭi Yangsang 1930년대 전반 도쿄음악학교의 작곡 교육: 1차 자료로 살펴보는 본과 작곡부의 양상 [Education of Music Composition in Tokyo Conservatory of Music in the 1930s: Aspects of Department of Composition in Primary Sources], trans. Sung-woo Jo 조성우, Journal of Ewha Music Research Institute 25 (2021): 13. 
+[4] Ibid., 13. 
+[5] Son-uk Pak 박선욱, Yun I-sang p’yŏngjŏn : kŏjang ŭi kwihwan 윤이상 평전: 거장의 귀환 [A Biography of Isang Yun: A Virtuoso’s Return], (Seoul: Samin, 2017): 170.
+[6] Dong-eun Noh 노동은, “Han'gugesŏ yunisangŭi samkwa yesul” 한국에서 윤이상의 삶과 예술 [Isang Yun's Life and Music in Korea] ŭmakkwa minjong 음악과 민족 (1999): 19.
+[7] Kyungboon Lee 이경분, “Yunisangŭi ŭmakkwa p'yŏnghwasasang" 윤이상의 음악과 평화 [‘Just Peace’ in the Music World of Isang Yun], T'ongilgwa P'yŏnghwa 통일과 평화 9 no. 2 (2017): 99-100.
+[8] Ibid., 99.
+[9] Son-uk Pak 박선욱, Yun I-sang p’yŏngjŏn : kŏjang ŭi kwihwan 윤이상 평전: 거장의 귀환 [A Biography of Isang Yun: A Virtuoso’s Return], (Seoul: Samin, 2017): 259.
+[10]So Young Ahn 안소영, “Yunisangŭi ch'ogi 12ŭmŭmagesŏ nat'ananŭn sŏgujŏng sagor 1958-1959nyŏnŭi chakp'umesŏ salp'yŏbon ŭmdŭrŭi kujojŏng maengnak” 윤이상의 초기 12음음악에서 나타나는 서구적 사고: 1958-1959년의 작품에서 살펴본 음들의 구조적 맥락 [Western Thoughts on Pitch Structure Shown in Isang Yun’s Early Twelve-Tone Music: Structural Contexts of Pitches in His Music of 1958-1959], Ŭmangnondan 음악논단 41 (2019), 67-68.
+[11]Jeongmee Kim, “Musical Syncretism in Isang Yun’s Gasa” in Locating East Asia in Western Art Music, ed. Yayoi Uno Everett and Frederick Lau (Wesleyan U Press, 2004), 179.
+[12]Isang Yun and Luise Rinse 윤이상, 루이제 린저, Sangch'ŏbadŭn Yong 상처받은 용 [Wounded Dragon], trans. Jong-do Hong 홍종도 (Seoul: Han Wool, 1988), 710-711.
