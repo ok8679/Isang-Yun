@@ -132,15 +132,27 @@ Likewise, Yun’s life and music has helped us reconsider the meaning of the cul
 # Footnotes
 
 [1]Sungman Choi and Eunmi Hong 최성만 그리고 홍은미, Yunisangŭi Ŭmaksegye 윤이상의 음악세계 [Isang Yun’s World of Music], (Seoul: Hangilsa, 1992), 469.
+
 [2] Isang Yun and Luise Rinse 윤이상, 루이제 린저, Sangch'ŏbadŭn Yong 상처받은 용 [Wounded Dragon], trans. Jong-do Hong 홍종도 (Seoul: Han Wool, 1988), 48. 
+
 [3] Encyclopedia of Overseas Korean Culture, “Chaeilchosŏninŭi Samkwa Aehwani Sŏrin Osak'a Ssŭruhashigukcheshijanggwa Trmiyuk'imo-ri Sangjŏmgat'” 재일조선인의 삶과 애환이 서린 오사카 쓰루하시국제시장과 ‘미유키모리 상점가’ [Osaka Tsuruhashi International Market and Miyukimori Shopping Street, Where the Lives and Sorrows of Zainichi Koreans are Engulfed], http://www.okpedia.kr/Contents/ContentsView?contentsId=GC95200002&localCode=jpn&menuGbn=special
+
 [4] Maho Nakatsuji 仲辻真帆,  1930Nyŏndae Chŏnban Tok'yoŭmak'akkyoŭi Chakkok Kyoyuk: 1Ch'a Charyo-ro Salp'yŏbonŭn Pon'gwa Chakkokpuŭi Yangsang 1930년대 전반 도쿄음악학교의 작곡 교육: 1차 자료로 살펴보는 본과 작곡부의 양상 [Education of Music Composition in Tokyo Conservatory of Music in the 1930s: Aspects of Department of Composition in Primary Sources], trans. Sung-woo Jo 조성우, Journal of Ewha Music Research Institute 25 (2021): 13. 
+
 [5] Ibid., 13. 
+
 [6] Son-uk Pak 박선욱, Yun I-sang p’yŏngjŏn : kŏjang ŭi kwihwan 윤이상 평전: 거장의 귀환 [A Biography of Isang Yun: A Virtuoso’s Return], (Seoul: Samin, 2017): 170.
+
 [7] Dong-eun Noh 노동은, “Han'gugesŏ yunisangŭi samkwa yesul” 한국에서 윤이상의 삶과 예술 [Isang Yun's Life and Music in Korea] ŭmakkwa minjong 음악과 민족 (1999): 19.
+
 [8] Kyungboon Lee 이경분, “Yunisangŭi ŭmakkwa p'yŏnghwasasang" 윤이상의 음악과 평화 [‘Just Peace’ in the Music World of Isang Yun], T'ongilgwa P'yŏnghwa 통일과 평화 9 no. 2 (2017): 99-100.
+
 [9] Ibid., 99.
+
 [10] Son-uk Pak 박선욱, Yun I-sang p’yŏngjŏn : kŏjang ŭi kwihwan 윤이상 평전: 거장의 귀환 [A Biography of Isang Yun: A Virtuoso’s Return], (Seoul: Samin, 2017): 259.
+
 [11]So Young Ahn 안소영, “Yunisangŭi ch'ogi 12ŭmŭmagesŏ nat'ananŭn sŏgujŏng sagor 1958-1959nyŏnŭi chakp'umesŏ salp'yŏbon ŭmdŭrŭi kujojŏng maengnak” 윤이상의 초기 12음음악에서 나타나는 서구적 사고: 1958-1959년의 작품에서 살펴본 음들의 구조적 맥락 [Western Thoughts on Pitch Structure Shown in Isang Yun’s Early Twelve-Tone Music: Structural Contexts of Pitches in His Music of 1958-1959], Ŭmangnondan 음악논단 41 (2019), 67-68.
+
 [12]Jeongmee Kim, “Musical Syncretism in Isang Yun’s Gasa” in Locating East Asia in Western Art Music, ed. Yayoi Uno Everett and Frederick Lau (Wesleyan U Press, 2004), 179.
+
 [13]Isang Yun and Luise Rinse 윤이상, 루이제 린저, Sangch'ŏbadŭn Yong 상처받은 용 [Wounded Dragon], trans. Jong-do Hong 홍종도 (Seoul: Han Wool, 1988), 710-711.
