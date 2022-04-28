@@ -17,7 +17,7 @@
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
 # Introduction
-Isang Yun, a Korean born composer who was expelled to Germany, was one of the most prominent composers in the 20th century. Influenced by Schönberg, Yun invented his unique musical technique, which compared him with the likes of Messiaen, Ligetti, and Penderecki. His reputation was built upon his musical ability to “perfectly expresses the Eastern philosophy and musical techniques in Western musical language.” [1] Most critiques found his music one of a kind as it is “East Asian combined with Western, traditional combined with international, and still Korean in essence.”
+Isang Yun, a Korean born composer who was expelled to Germany, was one of the most prominent composers in the 20th century. Influenced by Schönberg, Yun invented his unique musical technique, which compared him with the likes of Messiaen, Ligetti, and Penderecki. His reputation was built upon his musical ability to “perfectly expresses the Eastern philosophy and musical techniques in Western musical language.” [1] 
 
 <param ve-image fit="contain" param ve-image label="Isang Yun in front of the poster of a concert on his composition" description="Isang Yun in front of the poster of a concert on his composition." license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/5/52/Isang_Yun_in_front_of_the_poster_of_a_concert_on_his_composition.jpg">
 
