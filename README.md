@@ -1,4 +1,4 @@
-# Isang-Yun
+# Music of the Border: Isang Yun’s Fluidity in Music and Life
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
