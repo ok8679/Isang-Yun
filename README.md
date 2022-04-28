@@ -67,7 +67,7 @@ When Korea achieved independence from Japan, Yun was in Gyeong-seong in 1945. In
 <param ve-map center="Q8684" zoom="10">
 
 ## Tongyeong, Korea
-In Tongyeong, he organized Tongyeong Culture Foundation 사진잇음. He established an orphanage for war orphans. In 1948, he began to work as a teacher at Tongyeong Girls’ Highschool, composing 9 school songs in Korean in order to remove Japanese influence in schools. During the Korean War, he composed the Korean war song. Moreover, he was a member of the Korean Composer Association, serving as a critic while composing music and preparing for his studies abroad. 
+In Tongyeong, he organized Tongyeong Culture Foundation. He established an orphanage for war orphans. In 1948, he began to work as a teacher at Tongyeong Girls’ Highschool, composing 9 school songs in Korean in order to remove Japanese influence in schools. During the Korean War, he composed the Korean war song. Moreover, he was a member of the Korean Composer Association, serving as a critic while composing music and preparing for his studies abroad. 
 <param ve-entity eid="Q42152">
 <param ve-map center="Q42152" zoom="10">
 
